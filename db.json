@@ -1,7 +1,6 @@
 {
 	"Sans acces" : [
 	{
-		"profil_id": "0",
 		"profil_label": "Sans acces",
 		"profil_config": "config-noaccess.xml",
 		"profil_config_fields": " ",
