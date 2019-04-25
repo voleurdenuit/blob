@@ -2,13 +2,11 @@
 	"Sans acces" : [
 	{
 		"profil_label": "Sans acces",
-		"profil_config": "config-noaccess.xml",
 		"profil_config_fields": " ",
 		"profil_config_json": " "
 	}],
 	"Conseiller Client" : [
 	{
-		"profil_id": "2",
 		"profil_label": "Conseiller client",
 		"profil_config": "config-cclt.xml",
 		"profil_config_fields": "config-fields.xml",
@@ -16,7 +14,6 @@
 	}],
 	"Caraïbes": [
 	{
-		"profil_id": "4",
 		"profil_label": "Caraibes",
 		"profil_config": "config-car.xml",
 		"profil_config_fields": "config-fields.xml",
@@ -24,7 +21,6 @@
 	}],
 	"Order Layer": [
 	{
-		"profil_id": "34",
 		"profil_label": "OrderLayer",
 		"profil_config": "config-order-layer.xml",
 		"profil_config_fields": "config-fields.xml",
@@ -32,7 +28,6 @@
 	}],
 	"Ma Fibre Mobile": [
 	{
-		"profil_id": "14",
 		"profil_label": "mafibremobile",
 		"profil_config": "config-mafibremobile.xml",
 		"profil_config_fields": "config-fields-mob-fib.xml",
@@ -40,7 +35,6 @@
 	}],
 	"UPR": [
 	{
-		"profil_id": "12",
 		"profil_label": "UPR",
 		"profil_config": "config-upr.xml",
 		"profil_config_fields": "config-fields.xml",
@@ -48,7 +42,6 @@
 	}],
 	"Ma Fibre France": [
 	{
-		"profil_id": "16",
 		"profil_label": "mafibreavance",
 		"profil_config": "mafibre_avance.xml",
 		"profil_config_fields": "config-fields.xml",
@@ -56,7 +49,6 @@
 	}],
 	"Mob France caraibe": [
 	{
-		"profil_id": "17",
 		"profil_label": "mob france caraibe",
 		"profil_config": "config_mig_ofoca.xml",
 		"profil_config_fields": "config-fields.xml",
@@ -64,7 +56,6 @@
 	}],
 	"Ma Fibre": [
 	{
-		"profil_id": "10",
 		"profil_label": "mafibre",
 		"profil_config": "config-fibre.xml",
 		"profil_config_fields": "config-fields-mob-fib.xml",
@@ -72,7 +63,6 @@
 	}],
 	"ALHASSANE": [
 	{
-		"profil_id": "23",
 		"profil_label": "ALHASSANE",
 		"profil_config": "config-alhassane.xml",
 		"profil_config_fields": "config-fields.xml",
@@ -80,7 +70,6 @@
 	}],
 	"MERIEME": [
 	{
-		"profil_id": "22",
 		"profil_label": "MERIEME",
 		"profil_config": "config-merieme.xml",
 		"profil_config_fields": "config-fields.xml",
@@ -88,7 +77,6 @@
 	}],
 	"Reunion":[
 	{
-		"profil_id": "24",
 		"profil_label": "Reunion",
 		"profil_config": "config-reunion.xml",
 		"profil_config_fields": "config-fields.xml",
@@ -96,7 +84,6 @@
 	}],
 	"Administrateur": [
 	{
-		"profil_id": "1",
 		"profil_label": "Administrateur",
 		"profil_config": "config-adm.xml",
 		"profil_config_fields": "config-fields.xml",
@@ -104,7 +91,6 @@
 	}],
 	"MERIEME_OLD": [
 	{
-		"profil_id": "21",
 		"profil_label": "MERIEME_OLD",
 		"profil_config": " ",
 		"profil_config_fields": " ",
@@ -112,32 +98,26 @@
 	}],
 	"MARYNA": [
 	{
-		"profil_id": "19",
+		
 		"profil_label": "MARYNA",
 		"profil_config": "config-maryna.xml",
-		"profil_config_fields": "config-fields.xml",
-		"profil_description": " "
-		"profil_config_json": "config-maryna.json"
+		"profil_config_fields": "config-fields.xml",		"profil_config_json": "config-maryna.json"		
 	}],
 	"KARIM": [
 	{
-		"profil_id": "35",
 		"profil_label": "KARIM",
 		"profil_config": "config-karim.xml",
 		"profil_config_fields": "config-fields.xml",
 		"profil_config_json": "config-karim.json"
 	}],
 	"Eligibilit xDSL": [
-	{
-		"profil_id": "18",
-		"profil_label": "Eligibilit xDSL",
+	{		"profil_label": "Eligibilit xDSL",
 		"profil_config": "config-xdsl.xml",
 		"profil_config_fields": "config-fields.xml",
 		"profil_config_json": "config-xdsl.json"
 	}],
 	"DRCL": [
 	{
-		"profil_id": "3",
 		"profil_label": "DRCL",
 		"profil_config": "config-drcl.xml",
 		"profil_config_fields": "config-fields.xml",
@@ -145,7 +125,6 @@
 	}],
 	"MAMADY": [
 	{
-		"profil_id": "36",
 		"profil_label": "MAMADY",
 		"profil_config": "config-mamady.xml",
 		"profil_config_fields": "config-fields.xml",
@@ -153,7 +132,6 @@
 	}],
 	"FLEX": [
 	{
-		"profil_id": "37",
 		"profil_label": "FLEX",
 		"profil_config": "config-adm.xml",
 		"profil_config_fields": "config-fields.xml",
